@@ -1,7 +1,8 @@
-Qué es el proyecto
+Tienda de e-commerce fácil intuitiva
 
-Funcionalidades
+Intuitiva  
 
-Tecnologías
+Flask rust
 
-Qué aprendiste
+A esperar resultados con mejores opiniones
+
