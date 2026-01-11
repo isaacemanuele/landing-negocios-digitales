@@ -18,3 +18,13 @@ Crear una aplicación web simple para gestionar tareas.
 
 ## Estado
 En desarrollo
+
+pgsql
+task-manager/
+│
+├── index.html
+├── style.css
+├── script.js
+├── PROJECT.md
+├── TASKS.md
+└── README.md
