@@ -9,3 +9,5 @@ Implement basic task creation and rendering
 Guarda tareas en localStorage
 
 Carga tareas al iniciar
+
+Add localStorage persistence for tasks
