@@ -11,3 +11,9 @@ Guarda tareas en localStorage
 Carga tareas al iniciar
 
 Add localStorage persistence for tasks
+
+Diseño limpio
+
+Responsive básico
+
+Add basic styles for UI
