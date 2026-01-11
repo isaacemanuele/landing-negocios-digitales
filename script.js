@@ -1,19 +1,20 @@
-Captura input
+Genera mayor interés del lector o visitante
 
-Agrega tareas a un array
+Mantiene el numero de visitas para que pueda asegurar un estado
 
-Muéstralas en la lista
+Estado de las visitas
 
-Implement basic task creation and rendering
+Dar seguimiento y persuadir con contenido
 
-Guarda tareas en localStorage
+Almacena datos de entrada y salida
 
-Carga tareas al iniciar
+Suministra que visitantes cumplen con el perfil inicial
 
 Add localStorage persistence for tasks
 
-Diseño limpio
 
-Responsive básico
+Realizar páginas de publicidad de CTA o publicacion
+
+Animaciones de estado y páginas dinamicas
 
 Add basic styles for UI
