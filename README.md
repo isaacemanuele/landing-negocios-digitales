@@ -44,3 +44,4 @@ Reduje el costo de probabilidades y le di mejor margen
 
 ## Sistemas
 Adecuar a cada ruta especificada
+![Task Manager funcionando](captura.png)
